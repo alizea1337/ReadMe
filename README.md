@@ -1,42 +1,53 @@
-Hi, I'm alizea1337
+# Hi there 👋 I'm alizea1337
 
 Welcome to my GitHub profile!
 I’m a junior developer and system administrator with a passion for scripting, automation, and exploring new technologies.
 
-About Me
+---
 
-Currently learning HTML, CSS, JavaScript, Python, and C++
+## About Me
 
-Experienced in PowerShell scripting for system administration
+- Currently learning HTML, CSS, JavaScript, Python, and C++
 
-Interested in programming, gaming, and homelabbing
+- Experienced in PowerShell scripting for system administration
 
-Always exploring new tools, languages, and side projects
+- Interested in programming, gaming, and homelabbing
 
-Languages & Tools
-![PowerShell](https://img.shields.io/badge/-Powershell-blue?logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/-Python-black?logo=python) ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+- Always exploring new tools, languages, and side projects
 
-Featured Projects
+---
 
-Orangensaft_Bot
- – 100% Python
-A fun and functional Discord bot built entirely in Python.
+## Languages & Tools
 
-Powershellscripts
- – 100% PowerShell
-A collection of useful scripts for system administration and everyday tasks i use.
+![PowerShell](https://img.shields.io/badge/-Powershell-blue?logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-black?logo=python)
+![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 
-portfolio
- – HTML, CSS, JavaScript
-My web development portfolio showcasing projects built from scratch.
+---
 
-Fun Facts
+## Featured Projects
 
-Gaming keeps me creative and curious
+- [Orangensaft_Bot](https://github.com/alizea1337/Orangensaft_Bot) – 100% Python  
+  *A fun Discord bot, written entirely in Python.*
 
-My homelab is my personal tech playground
+- [Powershellscripts](https://github.com/alizea1337/Powershellscripts) – 100% PowerShell  
+  *Handy scripts for system administration and beyond.*
 
-I’m always learning and experimenting with new ideas
+- [portfolio](https://github.com/alizea1337/portfolio) – HTML, CSS, JS  
+  *My web dev journey: HTML, CSS, and JavaScript projects.*
 
-Thanks for stopping by!
-Feel free to explore my projects or get in touch if you’d like to collaborate.
+---
+
+## Fun Facts
+
+-  Gaming keeps me inspired!
+-  Homelabbing is my tech playground.
+-  Always up for learning something new.
+
+---
+
+Thanks for visiting my GitHub!  
+Feel free to check out my projects or reach out if you want to collaborate.
