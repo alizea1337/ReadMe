@@ -14,12 +14,7 @@ Interested in programming, gaming, and homelabbing
 Always exploring new tools, languages, and side projects
 
 Languages & Tools
-![PowerShell](https://img.shields.io/badge/-Powershell-blue?logo=powershell&logoColor=white) 
-![Python](https://img.shields.io/badge/-Python-black?logo=python) 
-![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript) 
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-Powershell-blue?logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/-Python-black?logo=python) ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 
 Featured Projects
 
